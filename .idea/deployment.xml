@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zyzhang@202.119.84.91:60335 password" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="Med_HGI_ftps">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/sda/zyzhang/Med_HGI/MediCLIP_HGI" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zyzhang@202.119.84.91:60335 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/sda/zyzhang/Med_HGI/MediCLIP_HGI" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

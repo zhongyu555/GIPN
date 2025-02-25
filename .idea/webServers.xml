@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="298e8e30-58fd-4fe8-9fa9-6f4e2080b4a4" name="Med_HGI_ftps">
+        <fileTransfer accessType="SFTP" host="202.119.84.91" port="60335" sshConfigId="eb9c0e24-6136-4652-9af0-056fcf947e64" sshConfig="zyzhang@202.119.84.91:60335 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
